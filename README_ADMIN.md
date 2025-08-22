@@ -26,7 +26,7 @@ Run these commands one by one on your Ubuntu server:
 
 ```bash
 sudo apt-get install -y curl git
-git clone https://github.com/mysticosmo/bedrock-server.git
-cd <YOUR_REPO>
+git clone https://github.com/mysticosmo/bedrock-server-setup/main.git
+cd bedrock-server-setup
 chmod +x bedrock_install.sh
 sudo ./bedrock_install.sh
